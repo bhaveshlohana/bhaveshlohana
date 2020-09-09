@@ -1,6 +1,6 @@
 ![](https://github.com/bhaveshlohana/bhaveshlohana/raw/master/animated-name.gif)
 
-Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. I'm really passionate about creating technology to elevate people.
+Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am working, you'll find me reading a sci-fi novel.
 
 ## Currently I'm:
 
